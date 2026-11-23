@@ -8,7 +8,7 @@
 - A task can be removed from the Created Task List using the "Remove Task" button.
 - These functions allow a user to easily customise and keep track of tasks added to the list.
 
-A preview of what this project looks like when deployed can be viewed on Vercel at this link: https://task-list-application.vercel.app/
+A preview of what this project looks like when deployed can be viewed on Vercel at this link: https://task-list-application.vercel.app/<br />
 (Tasks added to the list are not saved between browser sessions, reloading the page will present the user with a blank task list).
 
 ## Tech Stack
