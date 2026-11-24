@@ -17,8 +17,10 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 - JavaScript
 
 ## Project Structure
+```
 Task-List-Application-JavaScript/<br />
 ├─ README.md<br/>
 ├─ index.html<br/>
 ├─ script.js<br/>
 └─ style.css<br/>
+```
